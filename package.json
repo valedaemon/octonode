@@ -4,7 +4,7 @@
   "author": "Pavan Kumar Sunkara <pavan.sss1991@gmail.com> (http://pksunkara.github.com)",
   "description": "nodejs wrapper for github v3 api",
   "main": "./lib/octonode",
-  "repository": "pksunkara/octonode",
+  "repository": "valedaemon/octonode",
   "keywords": [
     "wrapper",
     "api",
